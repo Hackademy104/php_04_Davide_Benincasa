@@ -4,7 +4,7 @@
 // RAM
 // Scheda Madre
 // Scheda Video
-// altro
+// altroo
 
 class Computer {
     public $Ram;
